@@ -15,7 +15,7 @@
 }
 .coming-soon-h1{
     font-size: 280px;
-    letter-spacing: 25px;
+    letter-spacing: 0px;
     font-family: HeadingNowTrial;
 }
 
@@ -30,7 +30,7 @@
 @media only screen and  (max-width : 960px) {
     .coming-soon-h1{
         font-size: 120px;
-        letter-spacing: 23px;
+        letter-spacing: 0px;
         font-family: HeadingNowTrial;
     }
 
